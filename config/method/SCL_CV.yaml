@@ -1,0 +1,3 @@
+small_init_multiplier: null
+contrastive: 2,simclr_batchconstant
+beta_lasso: null

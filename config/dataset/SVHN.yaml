@@ -1,0 +1,5 @@
+dataset_li:
+  - SVHN
+epochs: 41
+save_freq: 2
+snapshot_ensemble: null

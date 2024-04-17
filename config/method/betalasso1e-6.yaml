@@ -1,0 +1,3 @@
+small_init_multiplier: null
+contrastive: null
+beta_lasso: 1e-6

@@ -1,0 +1,2 @@
+model: cnn
+save_freq: null

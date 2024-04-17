@@ -1,0 +1,4 @@
+small_init_multiplier: 0.8
+contrastive: 2,LoCL+_batchconstant
+beta_lasso: null
+

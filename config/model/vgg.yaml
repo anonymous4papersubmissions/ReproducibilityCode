@@ -1,0 +1,2 @@
+model: vgg_bn_drop
+save_freq: null

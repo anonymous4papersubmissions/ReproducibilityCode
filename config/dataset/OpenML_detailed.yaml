@@ -1,0 +1,10 @@
+dataset_li:
+  - OpenML233092
+  - OpenML233088
+  - OpenML233094
+  - OpenML233096
+#- OpenML233117
+#- OpenML233135
+epochs: 106
+save_freq: 5
+snapshot_ensemble: true
